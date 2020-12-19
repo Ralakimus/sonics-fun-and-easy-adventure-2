@@ -1,4 +1,4 @@
-## Sonic's Fun And Easy Adventure 2
+# Sonic's Fun And Easy Adventure 2
 
 The cancelled sequel to Sonic's Fun And Easy Adventure, which would've been a maze that changes its layout and wraps around at times to really make for a super fun adventure for the whole family.
 
